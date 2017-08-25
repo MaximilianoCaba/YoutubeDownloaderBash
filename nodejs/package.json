@@ -1,0 +1,19 @@
+{
+  "name": "untitled",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "express": "~4.14.1",
+    "fs": "0.0.1-security",
+    "morgan": "~1.7.0"
+  },
+  "keywords": [
+    "node"
+  ],
+  "license": "MIT"
+}
